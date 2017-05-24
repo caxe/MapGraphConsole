@@ -1,0 +1,6 @@
+E:\Programming\C# Programming\Desktop\MapGraphConsole\MapGraphConsole\bin\Debug\MapGraphConsole.exe.config
+E:\Programming\C# Programming\Desktop\MapGraphConsole\MapGraphConsole\bin\Debug\MapGraphConsole.exe
+E:\Programming\C# Programming\Desktop\MapGraphConsole\MapGraphConsole\bin\Debug\MapGraphConsole.pdb
+E:\Programming\C# Programming\Desktop\MapGraphConsole\MapGraphConsole\obj\Debug\MapGraphConsole.csprojResolveAssemblyReference.cache
+E:\Programming\C# Programming\Desktop\MapGraphConsole\MapGraphConsole\obj\Debug\MapGraphConsole.exe
+E:\Programming\C# Programming\Desktop\MapGraphConsole\MapGraphConsole\obj\Debug\MapGraphConsole.pdb
